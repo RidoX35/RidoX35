@@ -29,11 +29,11 @@ Salut ! Je suis développeur WEB full-stack, passionné par la création d'appli
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RidoX35&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RidoX35&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=RidoX35&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RidoX35&theme=tokyonight&hide_border=true)<br/>
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=RidoX35&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoX35&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=RidoX35&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoX35&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 </p>
 
 
