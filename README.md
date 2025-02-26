@@ -1,13 +1,5 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
-  <style>
-    img:hover {
-      transform: scale(1.1);
-      transition: transform 0.3s ease-in-out;
-    }
-  </style>
-</head>
 <body>
   <h1 align="center">💫 À propos de moi</h1>
   <p align="center">Salut ! Je suis développeur WEB full-stack, passionné par la création d'applications performantes et intuitives. J'aime apprendre, partager et collaborer sur des projets innovants. 🚀</p>
