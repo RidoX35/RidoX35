@@ -32,4 +32,5 @@ Salut ! Je suis développeur WEB full-stack, passionné par la création d'appli
 ![](https://github-readme-stats.vercel.app/api?username=RidoX35&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RidoX35&theme=radical&hide_border=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com?user=RidoX35&theme=darcula&hide_border=true&background=FFFFFF00")
+![](https://github-readme-streak-stats.herokuapp.com?user=RidoX35&theme=darcula&hide_border=true&background=FFFFFF00)
+
